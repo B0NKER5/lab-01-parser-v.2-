@@ -1,6 +1,6 @@
 | branch | status |
 |--------|--------|
-|  dev   | [![CI](https://github.com/B0NKER5/lab02-cache1/workflows/CI/badge.svg?branch=dev)](https://github.com/B0NKER5/lab02-cache1/actions/runs/441894430)|
+|  dev   | [![CI](https://github.com/B0NKER5/lab-01-parser-v.2-/workflows/CI/badge.svg?branch=dev)](https://github.com/B0NKER5/lab02-cache1/actions/runs/441894430)|
 
 # Лабораторная работа № 1
 
